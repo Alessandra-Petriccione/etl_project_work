@@ -1,0 +1,4 @@
+files:
+  raw_path: "data/raw/"
+  wip_path: "data/wip/"
+  processed_path: "data/processed/"

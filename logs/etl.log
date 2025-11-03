@@ -1,0 +1,179 @@
+2025-09-29 12:05:08,093 - unknown_user - INFO - File olistPW_2016_customers.csv caricato per customers
+2025-09-29 12:05:08,094 - unknown_user - INFO - File olistPW_2017_customers.csv caricato per customers
+2025-09-29 12:05:08,095 - unknown_user - INFO - File olistPW_2018_customers.csv caricato per customers
+2025-09-29 12:07:49,178 - unknown_user - INFO - File olistPW_2016_customers.csv caricato per customers
+2025-09-29 12:07:49,211 - unknown_user - INFO - File olistPW_2017_customers.csv caricato per customers
+2025-09-29 12:07:49,239 - unknown_user - INFO - File olistPW_2018_customers.csv caricato per customers
+2025-09-29 12:08:06,110 - unknown_user - INFO - Trasformazione completata per customers
+2025-09-29 12:08:22,390 - unknown_user - INFO - Caricati 29947 record di customers
+2025-09-29 12:08:22,397 - unknown_user - INFO - File olistPW_2016_sellers.csv caricato per sellers
+2025-09-29 12:08:22,418 - unknown_user - INFO - File olistPW_2017_sellers.csv caricato per sellers
+2025-09-29 12:08:22,441 - unknown_user - INFO - File olistPW_2018_sellers.csv caricato per sellers
+2025-09-29 12:08:35,025 - unknown_user - INFO - Trasformazione completata per sellers
+2025-09-29 12:08:36,582 - unknown_user - INFO - Caricati 2700 record di sellers
+2025-09-29 12:08:36,586 - unknown_user - INFO - File olistPW_2016_categories.csv caricato per categories
+2025-09-29 12:08:36,608 - unknown_user - INFO - File olistPW_2017_categories.csv caricato per categories
+2025-09-29 12:08:36,639 - unknown_user - INFO - File olistPW_2018_categories.csv caricato per categories
+2025-09-29 12:08:44,788 - unknown_user - INFO - Trasformazione completata per categories
+2025-09-29 12:08:44,840 - unknown_user - INFO - Caricati 23 record di categories
+2025-09-29 12:08:44,844 - unknown_user - INFO - File olistPW_2016_products.csv caricato per products
+2025-09-29 12:08:44,875 - unknown_user - INFO - File olistPW_2017_products.csv caricato per products
+2025-09-29 12:08:44,900 - unknown_user - INFO - File olistPW_2018_products.csv caricato per products
+2025-09-29 12:09:01,996 - unknown_user - INFO - Trasformazione completata per products
+2025-09-29 12:09:16,385 - unknown_user - INFO - Caricati 20803 record di products
+2025-09-29 12:09:16,391 - unknown_user - INFO - File olistPW_2016_orders.csv caricato per orders
+2025-09-29 12:09:16,449 - unknown_user - INFO - File olistPW_2017_orders.csv caricato per orders
+2025-09-29 12:09:16,506 - unknown_user - INFO - File olistPW_2018_orders.csv caricato per orders
+2025-09-29 12:09:27,539 - unknown_user - INFO - Trasformazione completata per orders
+2025-09-29 12:10:03,455 - unknown_user - INFO - Caricati 44473 record di orders
+2025-09-29 12:10:03,472 - unknown_user - INFO - File olistPW_2016_items.csv caricato per items
+2025-09-29 12:10:03,536 - unknown_user - INFO - File olistPW_2017_items.csv caricato per items
+2025-09-29 12:10:03,617 - unknown_user - INFO - File olistPW_2018_items.csv caricato per items
+2025-09-29 12:10:21,913 - unknown_user - INFO - Trasformazione completata per items
+2025-09-29 12:11:16,170 - unknown_user - INFO - Caricati 57682 record di items
+2025-10-01 16:26:45,017 - unknown_user - INFO - File olistPW_2016_customers.csv caricato per customers
+2025-10-01 16:26:45,042 - unknown_user - INFO - File olistPW_2017_customers.csv caricato per customers
+2025-10-01 16:26:45,066 - unknown_user - INFO - File olistPW_2018_customers.csv caricato per customers
+2025-10-01 16:26:55,824 - unknown_user - INFO - Trasformazione completata per customers
+2025-10-01 16:27:03,547 - unknown_user - INFO - Caricati 29947 record di customers
+2025-10-01 16:27:03,550 - unknown_user - INFO - File olistPW_2016_sellers.csv caricato per sellers
+2025-10-01 16:27:03,565 - unknown_user - INFO - File olistPW_2017_sellers.csv caricato per sellers
+2025-10-01 16:27:03,581 - unknown_user - INFO - File olistPW_2018_sellers.csv caricato per sellers
+2025-10-01 16:27:12,416 - unknown_user - INFO - Trasformazione completata per sellers
+2025-10-01 16:27:13,135 - unknown_user - INFO - Caricati 2700 record di sellers
+2025-10-01 16:27:13,138 - unknown_user - INFO - File olistPW_2016_categories.csv caricato per categories
+2025-10-01 16:27:13,150 - unknown_user - INFO - File olistPW_2017_categories.csv caricato per categories
+2025-10-01 16:27:13,165 - unknown_user - INFO - File olistPW_2018_categories.csv caricato per categories
+2025-10-01 16:27:20,087 - unknown_user - INFO - Trasformazione completata per categories
+2025-10-01 16:27:20,120 - unknown_user - INFO - Caricati 23 record di categories
+2025-10-01 16:27:20,124 - unknown_user - INFO - File olistPW_2016_products.csv caricato per products
+2025-10-01 16:27:20,144 - unknown_user - INFO - File olistPW_2017_products.csv caricato per products
+2025-10-01 16:27:20,168 - unknown_user - INFO - File olistPW_2018_products.csv caricato per products
+2025-10-01 16:27:26,098 - unknown_user - INFO - Trasformazione completata per products
+2025-10-01 16:27:32,630 - unknown_user - INFO - Caricati 20803 record di products
+2025-10-01 16:27:32,635 - unknown_user - INFO - File olistPW_2016_orders.csv caricato per orders
+2025-10-01 16:27:32,677 - unknown_user - INFO - File olistPW_2017_orders.csv caricato per orders
+2025-10-01 16:27:32,730 - unknown_user - INFO - File olistPW_2018_orders.csv caricato per orders
+2025-10-01 16:27:42,554 - unknown_user - INFO - Trasformazione completata per orders
+2025-10-01 16:28:04,231 - unknown_user - INFO - Caricati 44473 record di orders
+2025-10-01 16:28:04,238 - unknown_user - INFO - File olistPW_2016_items.csv caricato per items
+2025-10-01 16:28:04,279 - unknown_user - INFO - File olistPW_2017_items.csv caricato per items
+2025-10-01 16:28:04,326 - unknown_user - INFO - File olistPW_2018_items.csv caricato per items
+2025-10-01 16:28:15,315 - unknown_user - INFO - Trasformazione completata per items
+2025-10-01 16:28:48,950 - unknown_user - INFO - Caricati 57682 record di items
+2025-10-01 17:06:11,289 - unknown_user - INFO - File olistPW_2016_customers.csv caricato per customers
+2025-10-01 17:06:11,314 - unknown_user - INFO - File olistPW_2017_customers.csv caricato per customers
+2025-10-01 17:06:11,340 - unknown_user - INFO - File olistPW_2018_customers.csv caricato per customers
+2025-10-01 17:06:19,364 - unknown_user - INFO - Trasformazione completata per customers
+2025-10-01 17:06:26,699 - unknown_user - INFO - Caricati 29947 record di customers
+2025-10-01 17:06:26,703 - unknown_user - INFO - File olistPW_2016_sellers.csv caricato per sellers
+2025-10-01 17:06:26,719 - unknown_user - INFO - File olistPW_2017_sellers.csv caricato per sellers
+2025-10-01 17:06:26,736 - unknown_user - INFO - File olistPW_2018_sellers.csv caricato per sellers
+2025-10-01 17:06:43,540 - unknown_user - INFO - Trasformazione completata per sellers
+2025-10-01 17:06:44,190 - unknown_user - INFO - Caricati 2700 record di sellers
+2025-10-01 17:06:44,193 - unknown_user - INFO - File olistPW_2016_categories.csv caricato per categories
+2025-10-01 17:06:44,206 - unknown_user - INFO - File olistPW_2017_categories.csv caricato per categories
+2025-10-01 17:06:44,220 - unknown_user - INFO - File olistPW_2018_categories.csv caricato per categories
+2025-10-01 17:06:53,317 - unknown_user - INFO - Trasformazione completata per categories
+2025-10-01 17:06:53,389 - unknown_user - INFO - Caricati 23 record di categories
+2025-10-01 17:06:53,392 - unknown_user - INFO - File olistPW_2016_products.csv caricato per products
+2025-10-01 17:06:53,415 - unknown_user - INFO - File olistPW_2017_products.csv caricato per products
+2025-10-01 17:06:53,438 - unknown_user - INFO - File olistPW_2018_products.csv caricato per products
+2025-10-01 17:07:04,039 - unknown_user - INFO - Trasformazione completata per products
+2025-10-01 17:07:10,328 - unknown_user - INFO - Caricati 20803 record di products
+2025-10-01 17:07:10,332 - unknown_user - INFO - File olistPW_2016_orders.csv caricato per orders
+2025-10-01 17:07:10,376 - unknown_user - INFO - File olistPW_2017_orders.csv caricato per orders
+2025-10-01 17:07:10,430 - unknown_user - INFO - File olistPW_2018_orders.csv caricato per orders
+2025-10-01 17:07:20,184 - unknown_user - INFO - Trasformazione completata per orders
+2025-10-01 17:07:41,844 - unknown_user - INFO - Caricati 44473 record di orders
+2025-10-01 17:07:41,852 - unknown_user - INFO - File olistPW_2016_items.csv caricato per items
+2025-10-01 17:07:41,907 - unknown_user - INFO - File olistPW_2017_items.csv caricato per items
+2025-10-01 17:07:41,958 - unknown_user - INFO - File olistPW_2018_items.csv caricato per items
+2025-10-01 17:07:49,485 - unknown_user - INFO - Trasformazione completata per items
+2025-10-01 17:08:22,934 - unknown_user - INFO - Caricati 57682 record di items
+2025-10-01 17:10:51,999 - unknown_user - INFO - File olistPW_2016_customers.csv caricato per customers
+2025-10-01 17:10:52,027 - unknown_user - INFO - File olistPW_2017_customers.csv caricato per customers
+2025-10-01 17:10:52,051 - unknown_user - INFO - File olistPW_2018_customers.csv caricato per customers
+2025-10-01 17:11:02,350 - unknown_user - INFO - Trasformazione completata per customers
+2025-10-01 17:11:09,743 - unknown_user - INFO - Caricati 29947 record di customers
+2025-10-01 17:11:09,745 - unknown_user - INFO - File olistPW_2016_sellers.csv caricato per sellers
+2025-10-01 17:11:09,759 - unknown_user - INFO - File olistPW_2017_sellers.csv caricato per sellers
+2025-10-01 17:11:09,775 - unknown_user - INFO - File olistPW_2018_sellers.csv caricato per sellers
+2025-10-01 17:12:20,793 - unknown_user - INFO - File olistPW_2016_customers.csv caricato per customers
+2025-10-01 17:12:20,817 - unknown_user - INFO - File olistPW_2017_customers.csv caricato per customers
+2025-10-01 17:12:20,844 - unknown_user - INFO - File olistPW_2018_customers.csv caricato per customers
+2025-10-01 17:12:28,440 - unknown_user - INFO - Trasformazione completata per customers
+2025-10-01 17:12:35,020 - unknown_user - INFO - Caricati 29947 record di customers
+2025-10-01 17:12:35,023 - unknown_user - INFO - File olistPW_2016_sellers.csv caricato per sellers
+2025-10-01 17:12:35,038 - unknown_user - INFO - File olistPW_2017_sellers.csv caricato per sellers
+2025-10-01 17:12:35,056 - unknown_user - INFO - File olistPW_2018_sellers.csv caricato per sellers
+2025-10-01 17:12:55,230 - unknown_user - INFO - Trasformazione completata per sellers
+2025-10-01 17:12:55,906 - unknown_user - INFO - Caricati 2700 record di sellers
+2025-10-01 17:12:55,908 - unknown_user - INFO - File olistPW_2016_categories.csv caricato per categories
+2025-10-01 17:12:55,920 - unknown_user - INFO - File olistPW_2017_categories.csv caricato per categories
+2025-10-01 17:12:55,933 - unknown_user - INFO - File olistPW_2018_categories.csv caricato per categories
+2025-10-01 17:13:07,036 - unknown_user - INFO - Trasformazione completata per categories
+2025-10-01 17:13:07,064 - unknown_user - INFO - Caricati 23 record di categories
+2025-10-01 17:13:07,067 - unknown_user - INFO - File olistPW_2016_products.csv caricato per products
+2025-10-01 17:13:07,092 - unknown_user - INFO - File olistPW_2017_products.csv caricato per products
+2025-10-01 17:13:07,116 - unknown_user - INFO - File olistPW_2018_products.csv caricato per products
+2025-10-01 17:13:16,629 - unknown_user - INFO - Trasformazione completata per products
+2025-10-01 17:13:26,056 - unknown_user - INFO - Caricati 20803 record di products
+2025-10-01 17:13:26,060 - unknown_user - INFO - File olistPW_2016_orders.csv caricato per orders
+2025-10-01 17:13:26,117 - unknown_user - INFO - File olistPW_2017_orders.csv caricato per orders
+2025-10-01 17:13:26,182 - unknown_user - INFO - File olistPW_2018_orders.csv caricato per orders
+2025-10-01 17:13:38,824 - unknown_user - INFO - Trasformazione completata per orders
+2025-10-01 17:13:59,535 - unknown_user - INFO - Caricati 44473 record di orders
+2025-10-01 17:13:59,542 - unknown_user - INFO - File olistPW_2016_items.csv caricato per items
+2025-10-01 17:13:59,587 - unknown_user - INFO - File olistPW_2017_items.csv caricato per items
+2025-10-01 17:13:59,637 - unknown_user - INFO - File olistPW_2018_items.csv caricato per items
+2025-10-01 17:14:09,401 - unknown_user - INFO - Trasformazione completata per items
+2025-10-01 17:14:43,425 - unknown_user - INFO - Caricati 57682 record di items
+2025-10-02 10:57:37,045 - unknown_user - INFO - File olistPW_2016_customers.csv caricato per customers
+2025-10-02 10:57:37,070 - unknown_user - INFO - File olistPW_2017_customers.csv caricato per customers
+2025-10-02 10:57:37,095 - unknown_user - INFO - File olistPW_2018_customers.csv caricato per customers
+2025-10-02 10:58:16,856 - unknown_user - INFO - Trasformazione completata per customers
+2025-10-02 10:58:23,231 - unknown_user - INFO - Caricati 29947 record di customers
+2025-10-02 10:58:23,234 - unknown_user - INFO - File olistPW_2016_sellers.csv caricato per sellers
+2025-10-02 10:58:23,250 - unknown_user - INFO - File olistPW_2017_sellers.csv caricato per sellers
+2025-10-02 10:58:23,269 - unknown_user - INFO - File olistPW_2018_sellers.csv caricato per sellers
+2025-10-02 10:58:39,577 - unknown_user - INFO - Trasformazione completata per sellers
+2025-10-02 10:58:40,167 - unknown_user - INFO - Caricati 2700 record di sellers
+2025-10-02 10:58:40,170 - unknown_user - INFO - File olistPW_2016_categories.csv caricato per categories
+2025-10-02 10:58:40,184 - unknown_user - INFO - File olistPW_2017_categories.csv caricato per categories
+2025-10-02 10:58:40,200 - unknown_user - INFO - File olistPW_2018_categories.csv caricato per categories
+2025-10-02 10:59:21,727 - unknown_user - INFO - Trasformazione completata per categories
+2025-10-02 10:59:21,763 - unknown_user - INFO - Caricati 23 record di categories
+2025-10-02 10:59:21,772 - unknown_user - INFO - File olistPW_2016_products.csv caricato per products
+2025-10-02 10:59:21,795 - unknown_user - INFO - File olistPW_2017_products.csv caricato per products
+2025-10-02 10:59:21,819 - unknown_user - INFO - File olistPW_2018_products.csv caricato per products
+2025-10-02 11:04:13,426 - unknown_user - INFO - File olistPW_2016_customers.csv caricato per customers
+2025-10-02 11:04:13,448 - unknown_user - INFO - File olistPW_2017_customers.csv caricato per customers
+2025-10-02 11:04:13,473 - unknown_user - INFO - File olistPW_2018_customers.csv caricato per customers
+2025-10-02 11:04:43,183 - unknown_user - INFO - Trasformazione completata per customers
+2025-10-02 11:04:49,205 - unknown_user - INFO - Caricati 29947 record di customers
+2025-10-02 11:04:49,260 - unknown_user - INFO - File olistPW_2016_sellers.csv caricato per sellers
+2025-10-02 11:04:49,278 - unknown_user - INFO - File olistPW_2017_sellers.csv caricato per sellers
+2025-10-02 11:04:49,297 - unknown_user - INFO - File olistPW_2018_sellers.csv caricato per sellers
+2025-10-02 11:05:09,011 - unknown_user - INFO - Trasformazione completata per sellers
+2025-10-02 11:05:09,609 - unknown_user - INFO - Caricati 2700 record di sellers
+2025-10-02 11:05:09,612 - unknown_user - INFO - File olistPW_2016_categories.csv caricato per categories
+2025-10-02 11:05:09,624 - unknown_user - INFO - File olistPW_2017_categories.csv caricato per categories
+2025-10-02 11:05:09,640 - unknown_user - INFO - File olistPW_2018_categories.csv caricato per categories
+2025-10-02 11:05:28,533 - unknown_user - INFO - Trasformazione completata per categories
+2025-10-02 11:05:28,546 - unknown_user - INFO - Caricati 23 record di categories
+2025-10-02 11:05:28,549 - unknown_user - INFO - File olistPW_2016_products.csv caricato per products
+2025-10-02 11:05:28,568 - unknown_user - INFO - File olistPW_2017_products.csv caricato per products
+2025-10-02 11:05:28,593 - unknown_user - INFO - File olistPW_2018_products.csv caricato per products
+2025-10-02 11:05:52,167 - unknown_user - INFO - Trasformazione completata per products
+2025-10-02 11:05:59,618 - unknown_user - INFO - Caricati 20803 record di products
+2025-10-02 11:05:59,624 - unknown_user - INFO - File olistPW_2016_orders.csv caricato per orders
+2025-10-02 11:05:59,690 - unknown_user - INFO - File olistPW_2017_orders.csv caricato per orders
+2025-10-02 11:05:59,757 - unknown_user - INFO - File olistPW_2018_orders.csv caricato per orders
+2025-10-02 11:06:15,359 - unknown_user - INFO - Trasformazione completata per orders
+2025-10-02 11:06:34,756 - unknown_user - INFO - Caricati 44473 record di orders
+2025-10-02 11:06:34,764 - unknown_user - INFO - File olistPW_2016_items.csv caricato per items
+2025-10-02 11:06:34,807 - unknown_user - INFO - File olistPW_2017_items.csv caricato per items
+2025-10-02 11:06:34,857 - unknown_user - INFO - File olistPW_2018_items.csv caricato per items
+2025-10-02 11:06:51,674 - unknown_user - INFO - Trasformazione completata per items
+2025-10-02 11:07:21,921 - unknown_user - INFO - Caricati 57682 record di items
